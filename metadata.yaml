@@ -1,5 +1,8 @@
 _repo: A-Narrative-of-the-Life-and-Travels-of-Mrs-Nancy-Prince_63579
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63579-h/images/cover.jpg
 creator:
   author:
     agent_name: Prince, Nancy
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52331
     wikipedia: https://en.wikipedia.org/wiki/Nancy_Gardner_Prince
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63579#A-Narrative-of-the-Life-and-Travels-of-Mrs-Nancy-Prince
 gutenberg_issued: '2020-10-30'
 gutenberg_type: Text
 identifiers:
