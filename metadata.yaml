@@ -1,0 +1,34 @@
+_repo: A-Narrative-of-the-Life-and-Travels-of-Mrs-Nancy-Prince_63579
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Prince, Nancy
+    aliases:
+    - Gardner, Nancy
+    - Gardener, Nancy
+    - Prince, Nancy Gardner
+    - Prince, Nancy Gardener, Mrs.
+    birthdate: 1799
+    gutenberg_agent_id: '52331'
+    url: http://www.gutenberg.org/2009/agents/52331
+    wikipedia: https://en.wikipedia.org/wiki/Nancy_Gardner_Prince
+description: ''
+gutenberg_issued: '2020-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63579'
+  lccn: '20018619'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Social life and customs -- 1533-1917'
+- !lcc 'E151'
+- !lcsh 'Prince, Nancy, 1799- -- Travel'
+- !lcsh 'Jamaica -- Description and travel'
+- !lcsh 'Russia -- Description and travel'
+- !lcsh 'African Americans -- Biography'
+- GITenberg
+title: A Narrative of the Life and Travels of Mrs. Nancy Prince
+url: http://www.gutenberg.org/ebooks/63579
